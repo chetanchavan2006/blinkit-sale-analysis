@@ -1,1 +1,1 @@
-# bilinkit-sale-analysis
+# blinkit-sale-analysis
